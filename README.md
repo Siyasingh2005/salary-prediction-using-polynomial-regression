@@ -1,5 +1,11 @@
 # Salary Prediction using Polynomial Regression
 
+Name: SIYA SINGH
+Registration Number: 23MIP10030
+Application Number: IN26011506
+Batch Number: 1A
+Email: siya.23mip10030@vitbhopal.ac.in
+
 ## Objective
 To build a Polynomial Regression model that predicts an employee's salary based on their position level, capturing the non-linear relationship between seniority and pay.
 
