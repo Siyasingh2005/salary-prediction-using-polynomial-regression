@@ -1,9 +1,13 @@
 # Salary Prediction using Polynomial Regression
 
 Name: SIYA SINGH
+
 Registration Number: 23MIP10030
+
 Application Number: IN26011506
+
 Batch Number: 1A
+
 Email: siya.23mip10030@vitbhopal.ac.in
 
 ## Objective
